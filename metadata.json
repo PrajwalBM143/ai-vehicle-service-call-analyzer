@@ -1,0 +1,5 @@
+{
+  "name": "AI Vehicle Service Call Analyzer",
+  "description": "An intelligent multi-agent system that analyzes customer service calls for vehicle issues, uses RAG to retrieve historical cases, and provides diagnostic recommendations.",
+  "requestFramePermissions": []
+}
